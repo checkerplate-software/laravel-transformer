@@ -1,0 +1,17 @@
+{
+    "name": "checkerplate-software/laravel-transformer",
+    "description": "An extremely simple transformer for Laravel",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "illuminate/support": ">=5.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Vear",
+            "email": "luke@cpsoft.com.au"
+        }
+    ],
+    "minimum-stability": "stable"
+}
